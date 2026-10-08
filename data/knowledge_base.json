@@ -1,0 +1,16 @@
+{
+    "artificial intelligence": "Artificial Intelligence (AI) is the branch of computer science dedicated to creating systems capable of performing tasks that typically require human intelligence, such as reasoning, learning, perception, and decision-making.",
+    "machine learning": "Machine Learning (ML) is a subset of AI that focuses on building applications that learn from data and improve their performance over time without being explicitly programmed.",
+    "deep learning": "Deep Learning (DL) is a specialized subset of machine learning based on artificial neural networks with multiple layers (deep architectures) that learn complex data representations.",
+    "nlp": "Natural Language Processing (NLP) is a field of AI focused on enabling computers to understand, interpret, manipulate, and generate human language in a valuable and contextually accurate way.",
+    "natural language processing": "Natural Language Processing (NLP) is a field of AI focused on enabling computers to understand, interpret, manipulate, and generate human language in a valuable and contextually accurate way.",
+    "computer vision": "Computer Vision is an interdisciplinary field of AI that enables computers to derive meaningful information and insight from digital images, videos, and visual inputs.",
+    "supervised learning": "Supervised Learning is a machine learning paradigm where models are trained using labeled datasets containing both input features and corresponding target outputs.",
+    "unsupervised learning": "Unsupervised Learning is a machine learning technique where models analyze and cluster unlabeled data to discover hidden patterns, groupings, or structures.",
+    "reinforcement learning": "Reinforcement Learning (RL) is a machine learning framework where an agent learns to make decisions by taking actions in an environment to maximize cumulative rewards.",
+    "chatbot": "A Chatbot is a software application designed to simulate human conversation through text or voice interactions, ranging from rule-based engines to advanced AI models.",
+    "python": "Python is a high-level, interpreted, general-purpose programming language known for its clean syntax, readability, and extensive ecosystem for AI and data science.",
+    "neural network": "An Artificial Neural Network is a computational model inspired by the biological human brain, composed of interconnected nodes (neurons) structured in input, hidden, and output layers.",
+    "neural networks": "An Artificial Neural Network is a computational model inspired by the biological human brain, composed of interconnected nodes (neurons) structured in input, hidden, and output layers.",
+    "generative ai": "Generative AI refers to artificial intelligence models capable of creating new content such as text, images, code, audio, or video based on learned patterns from existing data."
+}

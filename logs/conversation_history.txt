@@ -1,0 +1,20 @@
+[2026-10-07 21:49:03]
+User: hello
+Bot: Hey! Nice to talk with you. Ask me anything about AI!
+
+[2026-10-07 21:49:03]
+User: what is machine learning?
+Bot: Machine Learning (ML) is a subset of AI that focuses on building applications that learn from data and improve their performance over time without being explicitly programmed.
+
+[2026-10-07 21:49:03]
+User: qwertyuiop
+Bot: I'm still learning. Try asking me about AI, Machine Learning, NLP, or Python!
+
+[2026-10-07 22:05:43]
+User: hi
+Bot: Hi there! What would you like to know?
+
+[2026-10-08 12:09:21]
+User: hi
+Bot: Hi there! What would you like to know?
+

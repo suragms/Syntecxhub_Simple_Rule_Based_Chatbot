@@ -1,0 +1,6 @@
+# Syntecxhub Simple Rule-Based Chatbot
+# Project 1 - Artificial Intelligence Internship
+#
+# No external dependencies required.
+# Uses Python Standard Library exclusively (re, json, datetime, pathlib, logging, unittest).
+# Python 3.10+ recommended.
